@@ -2,27 +2,24 @@
 
 ## 📌 Problem Info
 
-- **Name:** [Problem Title]
-- **Link:** [Insert Problem Link]
-- **Platform:** Codeforces / AtCoder / etc.
-- **Rating:** [e.g., 800]
-- **Tags:** [e.g., implementation, greedy, math]
+- **Name:** Bit++
+- **Link:** https://codeforces.com/problemset/problem/282/A
+- **Platform:** Codeforces 
+- **Rating:** 800
+- **Tags:** implementation, string
 
 ---
 
 ## 🧠 Thought Process
-
-- Step 1: [What did I first think?]
-- Step 2: [Did I try brute force? Any wrong attempts?]
-- Step 3: [What clicked? How did I find the correct idea?]
+- how to find something from a string
 
 ---
 
 ## 💡 Final Solution Idea
+-find() function finds something from a string.
+-find() returns string::npos if the "thing" is not found in the string.
 
-- [Explain the key logic in 2–3 lines]
-- [E.g., Count increments and decrements, just update counter each step.]
 
 ---
 
-## 📝 Pseudocode (Optional)
+
