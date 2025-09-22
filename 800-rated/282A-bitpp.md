@@ -17,6 +17,7 @@
 
 ## 💡 Final Solution Idea
 -find() function finds something from a string.
+
 -find() returns string::npos if the "thing" is not found in the string.
 
 
